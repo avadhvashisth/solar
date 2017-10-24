@@ -1,0 +1,38 @@
+@media screen
+and (max-width : 918px){
+
+#nav_bar ul li a{
+    min-width: 0px;
+    text-decoration: none;
+	display: block;
+	padding: 20px 10px 15px 10px;
+    margin: 0px;
+	text-align: center;
+	color: white;
+	font-size: 13px;
+	font-family: 'arial';
+    color: black;
+    }
+
+#nav_bar img {
+	width: 85px;
+	float: left;
+	margin-left: 0px;
+    margin-top: 22px;
+    margin-bottom: 3px;
+	padding: 0px;
+}
+#bgi{
+    width: 100%;
+}
+#bgi h1{
+    margin-left: 50px;
+}
+#bgi h2{
+    margin-left: 50px;
+}
+#shape,#size,#age,#spacetime{
+    width:100%;
+}
+}
+
